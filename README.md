@@ -1,8 +1,5 @@
 # AI Internship Eligibility Checker
 
-## Task ID
-AI-SS-007
-
 ## Project Description
 
 The AI Internship Eligibility Checker is a Python-based system that evaluates
